@@ -12,4 +12,3 @@
 利用Logistic预测酒店预订。
 也可以自行发现其他问题，并进行相应的挖掘。
 # data_mining_homework1
-# data_mining_homework1
